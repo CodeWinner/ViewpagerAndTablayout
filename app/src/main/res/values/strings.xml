@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewpagerAndTaplayout</string>
+    <string name="text_mess_one">Fragmen One</string>
+    <string name="text_mess_two">Fragmen Two</string>
+    <string name="text_mess_three">Fragmen Three</string>
+    <string name="text_mess_four">Fragmen Four</string>
+</resources>
